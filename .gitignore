@@ -1,0 +1,14 @@
+# Node
+client/node_modules
+client/.env
+
+# Go
+server/vendor
+server/.env
+
+# OS/System
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
